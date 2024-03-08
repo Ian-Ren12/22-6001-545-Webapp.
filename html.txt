@@ -1,10 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3ab5ef48c885f3ca0863d921f315a0dd0b8ec1d8
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>HTML Exercises</title>
 </head>
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3ab5ef48c885f3ca0863d921f315a0dd0b8ec1d8
 <body>
     <header>
         <h1>HTML Exercises</h1>
@@ -18,18 +26,33 @@
     </header>
 
     <figure>
+<<<<<<< HEAD
         <img src="https://ricedigital.co.uk/wp-content/uploads/2021/02/Erza-1-1280x1397.jpg" alt="Image from Internet">
         <figcaption>Erza Scarlet, S-class Fairy Tail member</figcaption>
     </figure>
     
     <br></br>
+=======
+        <img src="https://ricedigital.co.uk/wp-content/uploads/2021/02/Erza-1-1280x1397.jpg"
+            alt="Image from Internet">
+        <figcaption>Erza Scarlet, S-class Fairy Tail member</figcaption>
+    </figure>
+
+    <br>
+>>>>>>> 3ab5ef48c885f3ca0863d921f315a0dd0b8ec1d8
 
     <form action="/submit" method="post">
         <label for="name">Name:</label>
         <input type="text" id="name" name="name" required minlength="3">
         <br>
         <label for="password">Password:</label>
+<<<<<<< HEAD
         <input type="password" id="password" name="password" required pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}" title="Must contain at least one digit, one lowercase letter, one uppercase letter, and at least 8 characters.">
+=======
+        <input type="password" id="password" name="password"
+            required pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}"
+            title="Must contain at least one digit, one lowercase letter, one uppercase letter, and at least 8 characters.">
+>>>>>>> 3ab5ef48c885f3ca0863d921f315a0dd0b8ec1d8
         <br>
         <label>Gender:</label>
         <input type="radio" id="male" name="gender" value="male" required>
@@ -40,10 +63,17 @@
         <input type="checkbox" id="term" name="terms" required>
         <label for="terms">I accept the terms and conditions.</label>
         <br>
+<<<<<<< HEAD
         <input type="submit"value="Submit">
     </form>
 
     <br></br><br></br>
+=======
+        <input type="submit" value="Submit">
+    </form>
+
+    <br><br>
+>>>>>>> 3ab5ef48c885f3ca0863d921f315a0dd0b8ec1d8
 
     <table border="1">
         <thead>
@@ -70,19 +100,37 @@
     <section>
         <h2>Audio</h2>
         <audio controls>
+<<<<<<< HEAD
             <source src="C:\Users\Admin\221560208-WebApp\LinksActivity\Alan_Walker_&_Ina_Wroldsen_-_Strongest_(Lyrics).mp3" type="audio/mp3">
+=======
+            <source src="C:\Users\Admin\221560208-WebApp\LinksActivity\Alan_Walker_&_Ina_Wroldsen_-_Strongest_(Lyrics).mp3"
+                type="audio/mp3">
+>>>>>>> 3ab5ef48c885f3ca0863d921f315a0dd0b8ec1d8
             Your audio is sheeeesh
         </audio>
 
         <h2>Video</h2>
         <video controls>
+<<<<<<< HEAD
             <source src="C:\Users\Admin\221560208-WebApp\LinksActivity\AMV__Erza Scarlet__Queens of Kings.mp4" type="video/mp4">
+=======
+            <source src="C:\Users\Admin\221560208-WebApp\LinksActivity\AMV__Erza Scarlet__Queens of Kings.mp4"
+                type="video/mp4">
+>>>>>>> 3ab5ef48c885f3ca0863d921f315a0dd0b8ec1d8
             Your browser is sheeeesh
         </video>
     </section>
 
     <footer>
+<<<<<<< HEAD
         <p>&copy: 2024 User Information Table</p>
     </footer>
 </body>
 </html>
+=======
+        <p>&copy; 2024 User Information Table</p>
+    </footer>
+</body>
+
+</html>
+>>>>>>> 3ab5ef48c885f3ca0863d921f315a0dd0b8ec1d8
